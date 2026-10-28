@@ -1,0 +1,363 @@
+{
+  "profile": {
+    "name": "Aarav",
+    "salary": 85000,
+    "baseSavings": 12000,
+    "maskAmounts": false,
+    "currency": "₹"
+  },
+  "categories": {
+    "Food": {
+      "color": "#fb923c",
+      "emoji": "🍜",
+      "name": "Food"
+    },
+    "Transport": {
+      "color": "#38bdf8",
+      "emoji": "🚕",
+      "name": "Transport"
+    },
+    "Shopping": {
+      "color": "#f472b6",
+      "emoji": "🛍",
+      "name": "Shopping"
+    },
+    "Bills": {
+      "color": "#a3e635",
+      "emoji": "💡",
+      "name": "Bills"
+    },
+    "Fun": {
+      "color": "#8b7bff",
+      "emoji": "🎬",
+      "name": "Fun"
+    },
+    "Health": {
+      "color": "#5eead4",
+      "emoji": "💊",
+      "name": "Health"
+    },
+    "Subscriptions": {
+      "color": "#fbbf24",
+      "emoji": "🔁",
+      "name": "Subscriptions"
+    }
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "date": "Oct 28",
+      "merchant": "Swiggy",
+      "category": "Food",
+      "amount": 486,
+      "confidence": 98,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 2,
+      "date": "Oct 28",
+      "merchant": "Uber",
+      "category": "Transport",
+      "amount": 312,
+      "confidence": 97,
+      "source": "UPI"
+    },
+    {
+      "id": 3,
+      "date": "Oct 27",
+      "merchant": "Netflix",
+      "category": "Subscriptions",
+      "amount": 649,
+      "confidence": 99,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 4,
+      "date": "Oct 27",
+      "merchant": "Amazon",
+      "category": "Shopping",
+      "amount": 2899,
+      "confidence": 91,
+      "source": "ICICI Card"
+    },
+    {
+      "id": 5,
+      "date": "Oct 26",
+      "merchant": "Zomato",
+      "category": "Food",
+      "amount": 724,
+      "confidence": 98,
+      "source": "UPI"
+    },
+    {
+      "id": 6,
+      "date": "Oct 26",
+      "merchant": "Spotify",
+      "category": "Subscriptions",
+      "amount": 119,
+      "confidence": 99,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 7,
+      "date": "Oct 25",
+      "merchant": "BESCOM Electricity",
+      "category": "Bills",
+      "amount": 2140,
+      "confidence": 96,
+      "source": "Bank"
+    },
+    {
+      "id": 8,
+      "date": "Oct 25",
+      "merchant": "Apollo Pharmacy",
+      "category": "Health",
+      "amount": 860,
+      "confidence": 94,
+      "source": "UPI"
+    },
+    {
+      "id": 9,
+      "date": "Oct 24",
+      "merchant": "BookMyShow",
+      "category": "Fun",
+      "amount": 780,
+      "confidence": 95,
+      "source": "ICICI Card"
+    },
+    {
+      "id": 10,
+      "date": "Oct 23",
+      "merchant": "Blinkit",
+      "category": "Food",
+      "amount": 1240,
+      "confidence": 89,
+      "source": "UPI"
+    },
+    {
+      "id": 11,
+      "date": "Oct 23",
+      "merchant": "Cult.fit",
+      "category": "Health",
+      "amount": 1499,
+      "confidence": 93,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 12,
+      "date": "Oct 22",
+      "merchant": "Rapido",
+      "category": "Transport",
+      "amount": 148,
+      "confidence": 96,
+      "source": "UPI"
+    },
+    {
+      "id": 13,
+      "date": "Oct 21",
+      "merchant": "Myntra",
+      "category": "Shopping",
+      "amount": 3499,
+      "confidence": 92,
+      "source": "ICICI Card"
+    },
+    {
+      "id": 14,
+      "date": "Oct 20",
+      "merchant": "Airtel Broadband",
+      "category": "Bills",
+      "amount": 1179,
+      "confidence": 98,
+      "source": "Bank"
+    },
+    {
+      "id": 15,
+      "date": "Oct 19",
+      "merchant": "Cloud storage",
+      "category": "Subscriptions",
+      "amount": 210,
+      "confidence": 86,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 16,
+      "date": "Oct 18",
+      "merchant": "Starbucks",
+      "category": "Food",
+      "amount": 560,
+      "confidence": 97,
+      "source": "UPI"
+    },
+    {
+      "id": 17,
+      "date": "Oct 17",
+      "merchant": "Steam",
+      "category": "Fun",
+      "amount": 1299,
+      "confidence": 90,
+      "source": "ICICI Card"
+    },
+    {
+      "id": 18,
+      "date": "Oct 15",
+      "merchant": "Meal kit box",
+      "category": "Subscriptions",
+      "amount": 1899,
+      "confidence": 72,
+      "source": "HDFC Card"
+    },
+    {
+      "id": 19,
+      "date": "Oct 14",
+      "merchant": "Ola",
+      "category": "Transport",
+      "amount": 420,
+      "confidence": 95,
+      "source": "UPI"
+    },
+    {
+      "id": 20,
+      "date": "Oct 12",
+      "merchant": "Dominos",
+      "category": "Food",
+      "amount": 640,
+      "confidence": 97,
+      "source": "UPI"
+    },
+    {
+      "id": 21,
+      "date": "Oct 10",
+      "merchant": "Rent",
+      "category": "Bills",
+      "amount": 18500,
+      "confidence": 99,
+      "source": "Bank"
+    },
+    {
+      "id": 22,
+      "date": "Oct 08",
+      "merchant": "Decathlon",
+      "category": "Shopping",
+      "amount": 2150,
+      "confidence": 88,
+      "source": "ICICI Card"
+    }
+  ],
+  "recurring": [
+    {
+      "id": 1,
+      "name": "Rent",
+      "category": "Bills",
+      "amount": 18500,
+      "when": "Nov 10",
+      "note": "Steady for 11 months",
+      "ok": true
+    },
+    {
+      "id": 2,
+      "name": "Cult.fit",
+      "category": "Health",
+      "amount": 1499,
+      "when": "Nov 23",
+      "note": "Used 3 times in the last 60 days",
+      "ok": false
+    },
+    {
+      "id": 3,
+      "name": "Meal kit box",
+      "category": "Subscriptions",
+      "amount": 1899,
+      "when": "Nov 15",
+      "note": "Price rose ₹300 since July",
+      "ok": false
+    },
+    {
+      "id": 4,
+      "name": "Netflix",
+      "category": "Subscriptions",
+      "amount": 649,
+      "when": "Nov 27",
+      "note": "Overlaps with 2 other video apps",
+      "ok": false
+    },
+    {
+      "id": 5,
+      "name": "Airtel Broadband",
+      "category": "Bills",
+      "amount": 1179,
+      "when": "Nov 20",
+      "note": "On the standard plan",
+      "ok": true
+    },
+    {
+      "id": 6,
+      "name": "Cloud storage",
+      "category": "Subscriptions",
+      "amount": 210,
+      "when": "Nov 19",
+      "note": "Using 18% of your space",
+      "ok": false
+    },
+    {
+      "id": 7,
+      "name": "Spotify",
+      "category": "Subscriptions",
+      "amount": 119,
+      "when": "Nov 26",
+      "note": "Played daily",
+      "ok": true
+    }
+  ],
+  "goals": [
+    {
+      "id": 1,
+      "name": "Goa trip",
+      "emoji": "✈",
+      "target": 60000,
+      "saved": 22400,
+      "months": 6
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "emoji": "💻",
+      "target": 80000,
+      "saved": 10000,
+      "months": 12
+    }
+  ],
+  "savingsSuggestions": [
+    {
+      "id": 1,
+      "title": "Pause Cult.fit for two months",
+      "detail": "You went 3 times in 60 days",
+      "monthlySaving": 1499,
+      "emoji": "🏋",
+      "active": false
+    },
+    {
+      "id": 2,
+      "title": "Switch meal kit to every other week",
+      "detail": "Price went up ₹300 since July",
+      "monthlySaving": 950,
+      "emoji": "🥗",
+      "active": false
+    },
+    {
+      "id": 3,
+      "title": "Cap food delivery at ₹4,500 a month",
+      "detail": "You spent ₹6,100 on it this month",
+      "monthlySaving": 1600,
+      "emoji": "🍜",
+      "active": false
+    },
+    {
+      "id": 4,
+      "title": "Drop one overlapping video app",
+      "detail": "Three services, one regularly watched",
+      "monthlySaving": 649,
+      "emoji": "📺",
+      "active": false
+    }
+  ]
+}
